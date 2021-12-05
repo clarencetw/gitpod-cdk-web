@@ -13,3 +13,6 @@
 ### 測試 AWS CLI
 - `aws sts get-caller-identity --no-cli-pager`
 
+## 創建專案
+- `mkdir cdk-frontend-web && cd cdk-frontend-web`
+- `npx projen new awscdk-app-ts`
