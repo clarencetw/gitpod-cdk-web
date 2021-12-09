@@ -1,7 +1,3 @@
-tasks:
-  - command: brew install awscli
-  - command: brew install aws-cdk
-
 github:
   prebuilds:
     # enable for the master/default branch (defaults to true)
